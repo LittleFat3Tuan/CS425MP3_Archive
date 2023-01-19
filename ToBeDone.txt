@@ -1,0 +1,10 @@
+1. 
+2. 
+3. 
+4. 
+5. Correct behavior when elected as leader, e.g. ask nodes for the latest META, also start introducer
+6. Change write consistency level to 4? No.
+7. Client should ask elector for master's address Done.
+8. Include version information in META? Also, should this version info be backed-up too? No.
+9. 
+10. logging
